@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\bin\Debug\netcoreapp3.1\CarExcercise2502.exe
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\bin\Debug\netcoreapp3.1\CarExcercise2502.deps.json
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\bin\Debug\netcoreapp3.1\CarExcercise2502.runtimeconfig.json
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\bin\Debug\netcoreapp3.1\CarExcercise2502.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\bin\Debug\netcoreapp3.1\CarExcercise2502.dll
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\bin\Debug\netcoreapp3.1\CarExcercise2502.pdb
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.dll
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.pdb
+C:\Users\Lenovo\source\repos\CarExcercise2502\CarExcercise2502\obj\Debug\netcoreapp3.1\CarExcercise2502.genruntimeconfig.cache
